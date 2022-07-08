@@ -1,7 +1,0 @@
-
-script.Parent.MouseButton1Click:connect(function()
-	script.Parent.Parent["Selling Tools"].Visible = false
-	script.Parent.Parent.TPS.Visible = false
-	script.Parent.Parent["Random Guis"].Visible = true
-	wait(0.1)
-end)
